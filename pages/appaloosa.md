@@ -10,21 +10,23 @@ credits: true
 
 {% include feature/jumbotron.html objectid="coll002" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Context Given;Expanded Context" %}
 
-## About the Collection
+## Nez Perce Woman and Child on an Appaloosa Horse
 
 {% include feature/image.html objectid="coll002" width="75" %}
 <br>
 
-Context Given: “Postcard of a woman and child on horseback. Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
+## Context Given
+
+“Postcard of a woman and child on horseback. Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
 
 This item comes from a postcard collection which has the following description:
 
 “A digital collection of over 800 historical Northwest postcards from the historical photograph collections of the University of Idaho Library's Special Collections & Archives. The postcards range in date from the 1890s to the 1980s.”
 <br>
 
-Expanded Context:
+# Expanded Context
 
 This postcard shows a Nez Perce woman and her child on an Appaloosa Horse. Everyone shown, including the horse, wears full regalia, which includes many culturally significant designs and motifs. The woman shown wears a traditional Nez Perce basket hat, which is a signature style of woven hat made by the Nez Perce, as well as the other Columbia Plateau Tribes. The baby is shown swaddled in a traditional style baby board, with intricate beadwork and detailing on the headboard.
 
@@ -48,20 +50,6 @@ Additional sources to learn more:
 
 
 
-
-
-
-
-
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
