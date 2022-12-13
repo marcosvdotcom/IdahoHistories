@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-Image –> {% include feature/image.html objectid="coll002" width="75" %}
+{% include feature/image.html objectid="coll002" width="75" %}
 
 Context Given: “Description: Postcard of a woman and child on horseback. | Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
 
