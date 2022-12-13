@@ -17,7 +17,6 @@ credits: true
 {% include feature/image.html objectid="coll002" width="75" %}
 
 ## Context Given
-
 “Postcard of a woman and child on horseback. Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
 
 This item comes from a postcard collection which has the following description:
@@ -25,7 +24,6 @@ This item comes from a postcard collection which has the following description:
 “A digital collection of over 800 historical Northwest postcards from the historical photograph collections of the University of Idaho Library's Special Collections & Archives. The postcards range in date from the 1890s to the 1980s.”
 
 ## Expanded Context
-
 This postcard shows a Nez Perce woman and her child on an Appaloosa Horse. Everyone shown, including the horse, wears full regalia, which includes many culturally significant designs and motifs. The woman shown wears a traditional Nez Perce basket hat, which is a signature style of woven hat made by the Nez Perce, as well as the other Columbia Plateau Tribes. The baby is shown swaddled in a traditional style baby board, with intricate beadwork and detailing on the headboard.
 
 Expanding the context for this item could involve further research on several different themes and topics. For instance: discussing contemporary Nez Perce culture and presence, both how it is has changed and remained remarkably consistent, learning more about Nez Perce history from a Nez Perce perspective, or researching the remarkable story of the cultural and historical preservation of the Appaloosa horse breed, which is a breed of horse originated and maintained by the Nez Perce since Spanish colonization.
