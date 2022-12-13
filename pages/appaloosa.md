@@ -1,7 +1,7 @@
 ---
-title: About
+title: Appaloosas and Nez Perce Culture and History
 layout: about
-permalink: /about.html
+permalink: /appaloosas.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
