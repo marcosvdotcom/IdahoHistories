@@ -26,7 +26,7 @@ This item comes from a postcard collection which has the following description:
 “A digital collection of over 800 historical Northwest postcards from the historical photograph collections of the University of Idaho Library's Special Collections & Archives. The postcards range in date from the 1890s to the 1980s.”
 <br>
 
-# Expanded Context
+## Expanded Context
 
 This postcard shows a Nez Perce woman and her child on an Appaloosa Horse. Everyone shown, including the horse, wears full regalia, which includes many culturally significant designs and motifs. The woman shown wears a traditional Nez Perce basket hat, which is a signature style of woven hat made by the Nez Perce, as well as the other Columbia Plateau Tribes. The baby is shown swaddled in a traditional style baby board, with intricate beadwork and detailing on the headboard.
 
@@ -36,7 +36,7 @@ One important note is that many novice learners still conceptualize Indigenous p
 
 Did you know that the name Appaloosa derives from the Palouse River? Learn more at [Brittanica.com](https://www.britannica.com/animal/Appaloosa)
 
-Additional sources to learn more:
+## Learn More
 
 ["Amy Tilden on Bonnie, Appaloosa horse. 'A pair of Nez Perce Queens.'"](https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/741/rec/1)
 
