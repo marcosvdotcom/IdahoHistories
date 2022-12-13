@@ -17,7 +17,7 @@ credits: true
 {% include feature/image.html objectid="coll002" width="75" %}
 <br>
 
-Context Given: “Description: Postcard of a woman and child on horseback. | Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
+Context Given: “Description: Postcard of a woman and child on horseback. Full blood Nez Perce Indians mounted on an Appaloosa horse, with authentic trappings of late era.”
 
 This item comes from a postcard collection which has the following description:
 
@@ -31,10 +31,7 @@ Expanding the context for this item could involve further research on several di
 
 One important note is that many novice learners still conceptualize Indigenous presence as a kind of “pan-Indian” identity that creates a non-existent, culturally monolithic Native. This image provides a great entry point to conversations that center the unique cultural practices, traditions, and languages, of the over 500 federally recognized tribes in the United States, especially as Nez Perce imagery has been often appropriated to substitute as “generic” Indian.
 
-
 Did you know that the name Appaloosa derives from the Palouse River? Learn more at [Brittanica.com](https://www.britannica.com/animal/Appaloosa)
-
-
 
 Additional sources to learn more:
 
