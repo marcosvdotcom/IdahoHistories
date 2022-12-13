@@ -10,12 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="coll002" %}
 
-{% include feature/nav-menu.html sections="Context Given;Expanded Context" %}
+{% include feature/nav-menu.html sections="Context Given;Expanded Context; Learn More" %}
 
 ## Nez Perce Woman and Child on an Appaloosa Horse
 
 {% include feature/image.html objectid="coll002" width="75" %}
-<br>
 
 ## Context Given
 
@@ -24,7 +23,6 @@ credits: true
 This item comes from a postcard collection which has the following description:
 
 “A digital collection of over 800 historical Northwest postcards from the historical photograph collections of the University of Idaho Library's Special Collections & Archives. The postcards range in date from the 1890s to the 1980s.”
-<br>
 
 ## Expanded Context
 
@@ -44,12 +42,6 @@ Did you know that the name Appaloosa derives from the Palouse River? Learn more 
     
 [Tribal perspectives, through the Lewis & Clark Rediscovery Project](   https://www.lib.uidaho.edu/digital/L3/ShowOneObjectSiteID34ObjectID85.html)
     
-[People’s Plateau Web Portal]
+[Plateau People's Web Portal](https://plateauportal.libraries.wsu.edu/)
 
-[Nez Perce National Historic Park]
-
-
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+[Nez Perce National Historic Park](https://www.nps.gov/nepe/index.htm)
